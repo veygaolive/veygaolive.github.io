@@ -1,3 +1,9 @@
+
+body {
+margin : 0;
+padding: 0;
+}
+
 .cambiaColor {
 	box-sizing: border-box;
 	width: auto;
